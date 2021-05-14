@@ -1,0 +1,7 @@
+{
+    "channelname": "your-channel-name",
+    "commands": {
+        "forwards": "w",
+        "back": "s"
+    }
+}

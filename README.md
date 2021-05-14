@@ -4,7 +4,7 @@ I was just scrolling throught twitch and found out some videos that allow twitch
 
 **Have fun**
 
-*Note: It would be appreciated if you are kind enough to join my [Discord](https://discord.gg/2HgRFEzw5v)
+*Note: It would be appreciated if you are kind enough to join my [Discord](https://discord.gg/2HgRFEzw5v)*
 # How to setup
 
 1. Firstly open a terminal in the directory of the project
